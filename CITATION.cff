@@ -1,0 +1,12 @@
+@article{
+  hijjawi2023review,
+  title   = {A review of automated solar photovoltaic defect detection systems: approaches, challenges, and future orientations},
+  author  = {Hijjawi, Ula and Lakshminarayana, Subhash and Xu, Tianhua and Fierro, Gian Piero Malfense and Rahman, Mostafizur},
+  journal = {Solar Energy},
+  volume  = {266},
+  pages   = {112186},
+  year    = {2023},
+  doi     = {10.1016/j.solener.2023.112186},
+  issn    = {0038-092X},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0038092X23008204}
+}
