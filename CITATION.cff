@@ -1,11 +1,22 @@
-@article{hijjawi2023review,
-  title   = {A review of automated solar photovoltaic defect detection systems: approaches, challenges, and future orientations},
-  author  = {Hijjawi, Ula and Lakshminarayana, Subhash and Xu, Tianhua and Fierro, Gian Piero Malfense and Rahman, Mostafizur},
-  journal = {Solar Energy},
-  volume  = {266},
-  pages   = {112186},
-  year    = {2023},
-  doi     = {10.1016/j.solener.2023.112186},
-  issn    = {0038-092X},
-  url     = {https://www.sciencedirect.com/science/article/pii/S0038092X23008204}
-}
+cff-version: 1.0.0
+message: "If you use this code in your research, please cite it as below."
+authors:
+- family-names: "Hijjawi"
+  given-names: "Ula"
+- family-names: "Lakshminarayana"
+  given-names: "Subhash"
+- family-names: "Tianhua"
+  given-names: "Xu"
+- family-names: "Gian Piero Malfense"
+  given-names: "Fierro"
+- family-names: "Rahman"
+  given-names: "Mostafizur"
+title: "A review of automated solar photovoltaic defect detection systems: approaches, challenges, and future orientations"
+version: 1.0.0
+doi: 10.1016/j.solener.2023.112186
+journal: "Journal Title"
+month: 11
+volume: 266
+year: 2023
+type: article
+pages: 112186
