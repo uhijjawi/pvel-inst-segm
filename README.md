@@ -42,7 +42,8 @@ Run the config file customiser.
 Run the resulted command in the terminal. For example, the resulted command for inference is similar to:
 `{PYTHON_PATH} tools/test.py {modified_config_path} {checkpoint_file} --show-dir {(OUTPUT_PATH/'test').as_posix()}`
 
-@article{Hijjawi2023PVDefects,
+
+@article {
   title   = {A review of automated solar photovoltaic defect detection systems: approaches, challenges, and future orientations},
   author  = {Hijjawi, Ula and Lakshminarayana, Subhash and Xu, Tianhua and Fierro, Gian Piero Malfense and Rahman, Mostafizur},
   journal = {Solar Energy},
