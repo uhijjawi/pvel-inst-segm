@@ -43,15 +43,7 @@ Run the resulted command in the terminal. For example, the resulted command for 
 `{PYTHON_PATH} tools/test.py {modified_config_path} {checkpoint_file} --show-dir {(OUTPUT_PATH/'test').as_posix()}`
 
 
-@article {
-  hijjawi2023review,
-  title   = {A review of automated solar photovoltaic defect detection systems: approaches, challenges, and future orientations},
-  author  = {Hijjawi, Ula and Lakshminarayana, Subhash and Xu, Tianhua and Fierro, Gian Piero Malfense and Rahman, Mostafizur},
-  journal = {Solar Energy},
-  volume  = {266},
-  pages   = {112186},
-  year    = {2023},
-  doi     = {10.1016/j.solener.2023.112186},
-  issn    = {0038-092X},
-  url     = {https://www.sciencedirect.com/science/article/pii/S0038092X23008204}
-}
+## Citation
+
+If you use this code in your research, please cite it using the
+[CITATION.cff](CITATION.cff) file in this repository.
