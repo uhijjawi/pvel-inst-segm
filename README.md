@@ -45,5 +45,17 @@ Run the resulted command in the terminal. For example, the resulted command for 
 
 ## Citation
 
-If you use this code in your research, please cite it using the
-[CITATION.cff](CITATION.cff) file in this repository.
+If you use this code in your research, please cite as follows:
+```
+@article{HIJJAWI2023112186,
+title = {A review of automated solar photovoltaic defect detection systems: Approaches, challenges, and future orientations},
+journal = {Solar Energy},
+volume = {266},
+pages = {112186},
+year = {2023},
+issn = {0038-092X},
+doi = {https://doi.org/10.1016/j.solener.2023.112186},
+url = {https://www.sciencedirect.com/science/article/pii/S0038092X23008204},
+author = {Ula Hijjawi and Subhash Lakshminarayana and Tianhua Xu and Gian {Piero Malfense Fierro} and Mostafizur Rahman},
+keywords = {Photovoltaic systems, Solar module, Defect detection, Imaging-based techniques, Electrical testing techniques, Artificial Intelligence, Fault diagnosis, Machine Learning}
+```
